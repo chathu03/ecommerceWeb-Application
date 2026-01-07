@@ -61,33 +61,6 @@ ecommerceWeb-Application/
 ├── signup.php       # User registration
 └── README.md
 
-⚙️ Installation & Setup
-
-Install XAMPP / WAMP
-
-Clone this repository:
-
-git clone https://github.com/chathu03/ecommerceWeb-Application.git
-
-
-Move the project folder to:
-
-htdocs (XAMPP)
-
-
-Import the database:
-
-Open phpMyAdmin
-
-Create a database
-
-Import the .sql file from the database folder
-
-Update database connection settings in PHP files if needed
-
-Run the project in browser:
-
-http://localhost/ecommerceWeb-Application
 
 🎯 Learning Outcomes
 
@@ -101,11 +74,4 @@ Session handling and user authentication
 
 Real-world e-commerce workflow implementation
 
-📎 GitHub Repository
 
-🔗 https://github.com/chathu03/ecommerceWeb-Application
-
-👩‍💻 Author
-
-Chathuri Wasundara
-Undergraduate | Web Development Enthusiast
